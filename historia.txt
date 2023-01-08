@@ -1,0 +1,5 @@
+hola mundo este es un texto 
+
+para el curso de git en platzi
+
+primera version V1
