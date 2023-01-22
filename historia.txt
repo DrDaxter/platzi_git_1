@@ -3,3 +3,5 @@ hola mundo este es un texto nuevo
 para el curso de git en platzi
 
 primera version V2
+
+hablaremos de su vida
