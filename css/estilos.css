@@ -8,9 +8,17 @@ body{
     justify-content: flex-start;
     margin: auto; 
     border: 1px solid gray;
-    padding: 2;
+    
 }
 
 #post{
     font-size: 1.5rem;
+    padding: 2;
+}
+
+#cabecera{
+    background: #0066ff;
+    padding: 6px;
+    font-size: 5rem;
+    color: #fff;
 }
